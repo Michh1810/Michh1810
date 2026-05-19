@@ -1,4 +1,4 @@
-# Dear Recruiters, I don't have big name on my profile yet, but I am a:
+# Dear Recruiters, I don't have big name company on my profile yet, but I am a:
 Published researcher and design engineer graduating December 2026 with a BS in Computer Science from USF. My paper on AR/UX design was accepted at ACM VRST 2025.<br><br>I sit at the intersection of software engineering and product design. I write production React + TypeScript, run A/B tests, and ship interfaces that are both technically sound and intentional in how they feel. Most recently at FPT Software, where I reduced component re-renders by 40% and contributed to $40K in follow-on funding through accessible UI component work.<br><br>Open to SWE and Design Engineering internships for Summer/Fall 2026. Let's connect!
 
 
